@@ -14,6 +14,11 @@ const Header = () => {
         <a href="/">Blog</a>
         <a href="/">Contact</a>
       </nav>
+      <div> 
+      <form> 
+      <label> search</label>
+      </form>
+      </div>
     </header>
   );
 };
